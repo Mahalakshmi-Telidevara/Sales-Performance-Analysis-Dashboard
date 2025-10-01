@@ -1,7 +1,7 @@
 # Sales Performance Analysis Dashboard
 
 This project was done as part of my internship at **Besant Technologies**.  
-The goal was to analyze **5000 sales records** using **ETL (Extract, Transform, Load)** and create an interactive dashboard in **Power BI**.
+The goal was to analyze **5000 Sales Records** using **ETL (Extract, Transform, Load)** and create an interactive dashboard in **Power BI**.
 
 ---
 
@@ -42,16 +42,14 @@ The goal was to analyze **5000 sales records** using **ETL (Extract, Transform, 
 ![Dashboard 2](Screenshots/dashboard2.png)
 
 ---
-## 🚀 How to Use
 
-1. **Clone this repository and move into the project folder:**
-   ```bash
-   git clone https://github.com/your-username/sales-performance-dashboard.git
-   cd sales-performance-dashboard
-2. **Download the dataset (already included in dataset/ folder)**
+## 🚀 How to Use
+1. **Clone this repository**
+   - git clone https://github.com/your-username/Sales-Performance-Analysis-Dashboard.git
+2. **Download the dataset (5000 Sales Records.csv)**
    - If you want the original source, you can also get it from Kaggle: 5000 Sales Records Dataset.
 3. **Perform ETL in Power BI:**
-   - Open the dataset (SalesData.xlsx or SalesData.csv) in Power BI.
+   - Open the dataset (5000 Sales Records.csv) in Power BI.
 4. **Clean and transform data:**
    - Remove duplicates
    - Handle null values
