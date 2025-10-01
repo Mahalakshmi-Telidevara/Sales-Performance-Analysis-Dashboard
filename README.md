@@ -36,10 +36,10 @@ The goal was to analyze **5000 sales records** using **ETL (Extract, Transform, 
 
 ## 📷 Screenshots
 ### Dashboard 1 – Basic Sales Metrics
-![Dashboard 1](screenshots/dashboard1.png)
+![Dashboard 1](Screenshots/dashboard1.png)
 
 ### Dashboard 2 – Sales Across Time & Product Categories
-![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 2](Screenshots/dashboard2.png)
 
 ---
 ## 🚀 How to Use
